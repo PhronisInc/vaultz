@@ -7,8 +7,8 @@ to a locked Uniswap v3 position on success, or auto-refunds on failure. No admin
 see [`src/`](src) and the trust properties below.
 
 Frontends live in separate repos: [`vaultz-app`](https://github.com/PhronisInc/vaultz-app)
-(app.vaultz.io, the actual product) and
-[`vaultz-marketing`](https://github.com/PhronisInc/vaultz-marketing) (vaultz.io, the explainer site).
+(app.vltz.io, the actual product) and
+[`vaultz-marketing`](https://github.com/PhronisInc/vaultz-marketing) (vltz.io, the explainer site).
 
 ## Trust properties
 
